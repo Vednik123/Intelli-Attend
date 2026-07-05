@@ -21,7 +21,7 @@ def header_dashboard():
     st.markdown(f"""
         <div style="display:flex; align-items:center; justify-content:center; gap:10px">
             <img src='{logo_url}' style='height:85px;' />
-            <h1 style='text-align:left; color:#5865F2'>Intelli</br>Attend</h1>
+            <h2 style='text-align:left; color:#5865F2'>Intelli</br>Attend</h2>
         </div>   
                 
                 """, unsafe_allow_html=True)
